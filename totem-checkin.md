@@ -1,6 +1,6 @@
-# Módulo Totem de Check-in
+# Módulo Totem de Check-in do PrettyFlights
 
-Este arquivo representa a implementação inicial do módulo de Totem de Check-in do PrettyFlights.
+Este arquivo representa a implementação inicial do módulo de Totem de Check-in do PrettyFlights, incluindo a descrição correta do fluxo de atendimento do passageiro.
 
 ## Objetivo
 

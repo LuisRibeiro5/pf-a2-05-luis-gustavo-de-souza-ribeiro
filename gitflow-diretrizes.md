@@ -33,7 +33,7 @@ A feature foi integrada na branch `develop` usando merge sem fast-forward para p
 A branch `release/1.0.0` foi criada a partir de `develop`, revisada e validada com foco na estabilidade do Totem de Check-in. O release incluiu a primeira versão formal do módulo, pronta para produção.
 
 ### 3.6 Hotfix emergencial
-Um hotfix `hotfix/1.0.1` foi criado a partir de `main` para corrigir um problema urgente e depois integrado em `main` e `develop`.
+Um hotfix `hotfix/1.0.1` foi criado a partir de `main` para corrigir um problema urgente. A correção ajustou a descrição do módulo no arquivo `totem-checkin.md` e garantiu que a documentação reflita corretamente o fluxo de check-in do PrettyFlights. Em seguida, o hotfix foi integrado em `main` e `develop`.
 
 ## 4. Estrutura de versão
 - `main`: contém os lançamentos oficiais.
