@@ -30,7 +30,7 @@ Implementei a feature `feature/totem-checkin` para representar o desenvolvimento
 A feature foi integrada na branch `develop` usando merge sem fast-forward para preservar o histórico de fluxo.
 
 ### 3.5 Release `1.0.0`
-A branch `release/1.0.0` foi criada a partir de `develop`, validada e então mesclada em `main` para gerar o primeiro release estável.
+A branch `release/1.0.0` foi criada a partir de `develop`, revisada e validada com foco na estabilidade do Totem de Check-in. O release incluiu a primeira versão formal do módulo, pronta para produção.
 
 ### 3.6 Hotfix emergencial
 Um hotfix `hotfix/1.0.1` foi criado a partir de `main` para corrigir um problema urgente e depois integrado em `main` e `develop`.
