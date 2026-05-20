@@ -24,7 +24,7 @@ Criei o repositório local com a documentação inicial e confirmei a conexão c
 Defini os branches permanentes `main` e `develop` e criei o fluxo para futuras features, releases e hotfixes.
 
 ### 3.3 Desenvolvimento de feature
-Implementei a feature `feature/totem-checkin` para representar o desenvolvimento do módulo de check-in do Totem.
+Implementei a feature `feature/totem-checkin` para representar o desenvolvimento do módulo de check-in do Totem. A branch incluiu um artefato inicial de especificação funcional no arquivo `totem-checkin.md`.
 
 ### 3.4 Integração da feature na `develop`
 A feature foi integrada na branch `develop` usando merge sem fast-forward para preservar o histórico de fluxo.
